@@ -1,0 +1,15 @@
+{
+	"name": "simple-excel-script",
+	"version": "1.0.0",
+	"description": "simple-script",
+	"main": "index.ts",
+	"license": "MIT",
+	"dependencies": {
+		"@types/prompt-sync": "^4.2.3",
+		"prompt-sync": "^4.2.0",
+		"xlsx": "^0.18.5"
+	},
+	"devDependencies": {
+		"@types/node": "^20.11.0"
+	}
+}
